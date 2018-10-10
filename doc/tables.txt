@@ -1,0 +1,8 @@
+groups
+companies
+contacts
+contact_types
+vistors
+menus
+appointments
+receivers
